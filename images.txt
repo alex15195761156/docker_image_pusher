@@ -1,5 +1,5 @@
 postgres
 neo4j
-elasticsearch
+docker.elastic.co/elasticsearch/elasticsearch:8.10.0
 rabbitmq
 bitnami/kafka
