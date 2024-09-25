@@ -1,1 +1,1 @@
-ouqiang/gocron-node:latest
+weijer/gocron-node:latest
