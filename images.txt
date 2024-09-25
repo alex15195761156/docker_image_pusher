@@ -1,1 +1,1 @@
-mysql
+ouqiang/gocron-node:latest
